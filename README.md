@@ -9,7 +9,7 @@
 
 <p style="font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;">
   <strong>Demo:</strong> 
-  <a href="https://your-live-link.com" target="_blank" style="color:#58a6ff;text-decoration:none;">
+  <a href="https://abhinavgadekar1134.github.io/GitAccountsAnalyzer/" target="_blank" style="color:#58a6ff;text-decoration:none;">
     Try it here
   </a>
 </p>
